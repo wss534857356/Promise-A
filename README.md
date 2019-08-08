@@ -5,3 +5,11 @@
 ```bash
 yarn test
 ```
+
+## 未实现
+- Promise.prototype.catch
+- Promise.prototype.finally
+- Promise.prototype.allSettled
+- Promise.race
+- Promise.all
+- Promise.any
